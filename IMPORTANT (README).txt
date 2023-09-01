@@ -1,0 +1,1 @@
+Please, go the src/utils/cofigVariables.ts file, and fill the email, password (change the service if the email its not gmail), put a dummy email for receiving the messages, and fill the mongodb URL with your db, for see the results of all the endpoints
